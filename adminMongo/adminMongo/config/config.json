@@ -1,0 +1,12 @@
+{
+  "connections": {
+    "health": {
+      "connection_string": "mongodb://localhost:27017/zurihealth",
+      "connection_options": {}
+    },
+    "Ileads": {
+      "connection_string": "mongodb://localhost:27017/Pipeline",
+      "connection_options": {}
+    }
+  }
+}
